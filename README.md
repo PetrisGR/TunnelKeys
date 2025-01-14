@@ -1,5 +1,9 @@
 # 📝 TunnelKeys (Python Keylogger Script) [![GitHub stars](https://img.shields.io/github/stars/PetrisGR/TunnelKeys.svg)](https://github.com/PetrisGR/TunnelKeys/stargazers) [![GitHub license](https://img.shields.io/github/license/PetrisGR/TunnelKeys.svg)](https://github.com/PetrisGR/TunnelKeys/blob/master/LICENSE)
 
+![image](https://github.com/user-attachments/assets/e82382d1-37b5-4919-adea-34b3bc6b0f62)
+
+## Description
+
 "TunnelKeys" is a Python keylogger tool. It transmits the keys pressed via DNS tunneling using Base32 encoding.
 
 **Note**: This tool does not provide a DNS listener. To capture, decode, and analyze keylogs transmitted via DNS tunneling, you will need to set up your own DNS server and listener to handle the incoming queries.
