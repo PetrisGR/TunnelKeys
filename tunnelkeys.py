@@ -13,7 +13,6 @@ import base64
 import keyboard
 import dns.resolver
 
-
 ### >> Configuration << ###
 Config = {
     "hostId": "5f",                         # The host ID to identify the target (hex recommended for more possible targets)
